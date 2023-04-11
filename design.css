@@ -1,0 +1,54 @@
+.tag{
+    display: flex;
+    border-radius: 5px;
+    background-color: #CED2DE;
+    height: 20px;
+    width:60px;
+    padding: 5px;
+    font-size: small;
+    justify-content: center;
+    align-items: center;
+}
+.outline{
+    margin-left:10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.week{
+    display: flex;
+    padding-bottom: 10px;
+}
+.content{
+    padding-left: 50px;
+}
+.title{
+    font-size: 20px;
+}
+.link{
+    display: flex;
+    justify-content: flex-start;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    
+}
+.link button{
+    border-radius: 5px;
+    padding: 7px;
+    margin-right: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+#button1{
+    background-color:#C3B6FD;
+}
+#button2{
+    background-color: #92C6FD
+}
+#button3{
+    background-color: salmon;
+}
+#button4{
+    background-color: #86EFAB
+}
+#button5{
+    background-color: #86EFAB
+}
